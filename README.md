@@ -2,12 +2,5 @@
 Collection of random tests
 
 Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor
- 
-```html
-<b>
-```
-Lorem Ipsum Dolor Lorem Ipsum Dolor
-```html
-</b>
-```
+<b>test</b>
 
