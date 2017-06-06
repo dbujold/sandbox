@@ -3,7 +3,7 @@ Collection of random tests
 
 Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor Lorem Ipsum Dolor
 <span style="background-color: blue; color: blue">test</span>
-[#wow](wow)
+[wow](#wow)
 
 Lorem
 
